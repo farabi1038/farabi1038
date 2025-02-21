@@ -57,14 +57,48 @@
 
 ---
 
-## **🔙 Past Projects**
-- **Iowa DOT Snowplow Navigation Project** – Enhanced **snowplow operations in Iowa using AI-based autonomous navigation**.  
-- **Advanced Driver Assistance Systems (ADAS) Development** – Engineered **ADAS** for extreme conditions to **improve traffic safety**.  
-- **Deep Learning for Bio-Monitoring** – Developed **deep learning models to predict heart and respiratory rates** for **health monitoring**.  
-- **Reinforcement Learning in Cellular Simulations (Game of Cells)** – Applied **RL-based models** to study **biological cellular behavior**.  
-- **Deep Localization for Temporal Action Recognition** – Exploring **change-point detection methods** for action recognition in videos.  
-- **Sidewalk Detection for Urban Safety** – Enhancing **sidewalk detection with ensemble learning** to **improve accessibility and urban planning**.  
-- **Leveraging Video-LLMs for Crash Detection** – Applying **Large Language Models (LLMs)** to generate **real-time crash video descriptions and automated crash detection**.  
+## **🔙 Past Projects**  
+
+### 🚛 **Iowa DOT Snowplow Navigation Project**  
+Enhanced **snowplow operations in Iowa** using **AI-based autonomous navigation** to improve **lane assistance and winter road safety**.  
+- 📰 **Featured In:**  
+  - 🏛 [Iowa State University News](https://www.news.iastate.edu/news/2024/03/05/snowplow)  
+  - 📰 [Des Moines Register](https://www.desmoinesregister.com/story/news/local/2024/04/04/iowa-dot-isu-reactor-lab-tests-lane-assistance-technology-snowplows/73038854007/)    
+
+---
+
+### 🚗 **Advanced Driver Assistance Systems (ADAS) Development**  
+Engineered **ADAS technology** to enhance **vehicle safety in extreme driving conditions**, contributing to **traffic accident prevention**.  
+
+---
+
+### 🧬 **Deep Learning for Bio-Monitoring**  
+Developed **deep learning models** to accurately **predict heart and respiratory rates**, aiding **health monitoring and biomedical research**.  
+
+---
+
+### 🔬 **Reinforcement Learning in Cellular Simulations (Game of Cells)**  
+Applied **Reinforcement Learning (RL) models** to study **biological cellular behavior**.  
+🔗 [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:hqOjcs7Dif8C)  
+
+---
+
+### 🎥 **Deep Localization for Temporal Action Recognition**  
+Exploring **change-point detection methods** for **temporal action localization** in video analysis.  
+🔗 [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:Se3iqnhoufwC)  
+
+---
+
+### 🚶 **Sidewalk Detection for Urban Safety**  
+Enhancing **sidewalk detection with ensemble learning** to **improve accessibility and urban planning**.  
+🔗 [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:WF5omc3nYNoC)  
+
+---
+
+### 🤖 **Leveraging Video-LLMs for Crash Detection**  
+Applying **Large Language Models (LLMs)** to generate **real-time crash video descriptions and automated crash detection**.  
+🔗 [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:LkGwnXOMwfcC)  
+
 
 ## **📝 Publications**
 Here are some of my **recent research papers**:
