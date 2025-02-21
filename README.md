@@ -108,13 +108,13 @@ Here are some of my **recent research papers**:
    *I. F. Shihab, B. I. Alvee, A. Sharma* – 2024 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&citation_for_view=L0ErrZYAAAAJ:u-x6o8ySG0sC)  
 
 2. **"Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments"**  
-   *I. F. Shihab, S. R. Bhagat, A. Sharma* – 2024 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&citation_for_view=L0ErrZYAAAAJ:UeHWp8X0CEIC)  
+   *I. F. Shihab, S. R. Bhagat, A. Sharma* – 2024 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:eQOLeE2rZwMC)  
 
 #### **🧬 Machine Learning & AI in Bioengineering**
-3. **"Reinforcement Learning‐Guided Control Strategies for CAR T‐Cell Activation and Expansion"**  
-   *S. Ferdous, I. F. Shihab, R. Chowdhury, N. Reuel* – *Biotechnology and Bioengineering*, 2024 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&citation_for_view=L0ErrZYAAAAJ:Tyk-4Ss8FVUC)  
+3. **"Effects of sequence features on machine-learned enzyme classification fidelity"**  
+   *S. Ferdous, I. F. Shihab, R. Chowdhury, N. Reuel* – *Biotechnology and Bioengineering*, 2024 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:W7OEmFMy1HYC)  
 
-For a complete list of my publications, visit my **[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=L0ErrZYAAAAJ&view_op=list_works&sortby=pubdate)**.
+For a complete list of my publications, visit my **[Google Scholar Profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate)**.
 
 ---
 
