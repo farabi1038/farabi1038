@@ -18,46 +18,6 @@ Here are my **coursework, research projects, and challenge participations**:
 
 ---
 
-## **💼 Work Experience**
-
-### **Graduate Research Assistant**  
-📍 *Iowa State University* | 🗓 *Aug 2020 – Present*  
-- Conducting **AI-driven research in transportation, safety, and video-based crash detection**.  
-- Developing **crash analysis models, Video-LLMs for crash detection, and AI-enhanced urban planning tools**.  
-- Assisting in **teaching machine learning and AI coursework**, and mentoring students in research projects.  
-
-### **Data Scientist (Co-Ops)**  
-📍 *SoilSerdem, Ames, IA* | 🗓 *Jan 2024 – Dec 2024*  
-- Developed a **Soil Mapping Engine** to provide **personalized soil maps for growers/farmers**.  
-- Optimized **geospatial data processing** for improved decision-making.  
-- Designed **QGIS scripts for AWS integration**, reducing hosting costs.  
-
-### **Data Engineer Intern**  
-📍 *Etalyc Inc, Ames, IA* | 🗓 *May 2021 – Jul 2021*  
-- Built **pedestrian safety models** with machine learning to enhance urban planning.  
-- Created **advanced analytics protocols** to improve predictive capabilities.  
-- Delivered **data-driven reports** highlighting key trends for better decision-making.  
-
-### **Graduate Teaching Assistant**  
-📍 *The University of Vermont, Burlington, VT* | 🗓 *Aug 2019 – May 2020*  
-- Taught **machine learning and deep learning concepts** to over 100 students.  
-- Developed **interactive teaching materials** for improved engagement.  
-
----
-
-## **📚 Education**
-🎓 **Ph.D., Computer Science** (*Expected Dec 2025*)  
-📍 Iowa State University  
-
-🎓 **M.S., Artificial Intelligence** (*Graduated Jan 2024*)  
-📍 Iowa State University  
-
-🎓 **B.Sc., Computer Science & Engineering** (*Graduated 2018*)  
-📍 BRAC University  
-
-
----
-
 ## **💼 Current Projects**  
 👨‍🔬 **Graduate Research at Iowa State University** *(Aug 2020 – Present)*  
 🚀 My current research focuses on applying **AI and machine learning to transportation safety systems, computational modeling, and video-based crash detection**.
@@ -114,6 +74,48 @@ Enhancing **sidewalk detection with ensemble learning** to **improve accessibili
 ---
 
  
+
+## **💼 Work Experience**
+
+### **Graduate Research Assistant**  
+📍 *Iowa State University* | 🗓 *Aug 2020 – Present*  
+- Conducting **AI-driven research in transportation, safety, and video-based crash detection**.  
+- Developing **crash analysis models, Video-LLMs for crash detection, and AI-enhanced urban planning tools**.  
+- Assisting in **teaching machine learning and AI coursework**, and mentoring students in research projects.  
+
+### **Data Scientist (Co-Ops)**  
+📍 *SoilSerdem, Ames, IA* | 🗓 *Jan 2024 – Dec 2024*  
+- Developed a **Soil Mapping Engine** to provide **personalized soil maps for growers/farmers**.  
+- Optimized **geospatial data processing** for improved decision-making.  
+- Designed **QGIS scripts for AWS integration**, reducing hosting costs.  
+
+### **Data Engineer Intern**  
+📍 *Etalyc Inc, Ames, IA* | 🗓 *May 2021 – Jul 2021*  
+- Built **pedestrian safety models** with machine learning to enhance urban planning.  
+- Created **advanced analytics protocols** to improve predictive capabilities.  
+- Delivered **data-driven reports** highlighting key trends for better decision-making.  
+
+### **Graduate Teaching Assistant**  
+📍 *The University of Vermont, Burlington, VT* | 🗓 *Aug 2019 – May 2020*  
+- Taught **machine learning and deep learning concepts** to over 100 students.  
+- Developed **interactive teaching materials** for improved engagement.  
+
+---
+
+## **📚 Education**
+🎓 **Ph.D., Computer Science** (*Expected Dec 2025*)  
+📍 Iowa State University  
+
+🎓 **M.S., Artificial Intelligence** (*Graduated Jan 2024*)  
+📍 Iowa State University  
+
+🎓 **B.Sc., Computer Science & Engineering** (*Graduated 2018*)  
+📍 BRAC University  
+
+
+---
+
+
 
 
 ## **📝 Publications**
