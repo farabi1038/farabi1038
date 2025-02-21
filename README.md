@@ -14,7 +14,7 @@
 - Developing **crash analysis models, Video-LLMs for crash detection, and AI-enhanced urban planning tools**.  
 - Assisting in **teaching machine learning and AI coursework**, and mentoring students in research projects.  
 
-### **Data Scientist (Intern)**  
+### **Data Scientist (Co-Ops)**  
 📍 *SoilSerdem, Ames, IA* | 🗓 *Jan 2024 – Dec 2024*  
 - Developed a **Soil Mapping Engine** to provide **personalized soil maps for growers/farmers**.  
 - Optimized **geospatial data processing** for improved decision-making.  
