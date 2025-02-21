@@ -4,6 +4,18 @@
 🔎 **For more details about my experience and expertise, feel free to check my [Resume](./Ibne_Farabi_Shihab_Resume.pdf).**
 
 
+
+
+---
+
+## **📌 Coursework & Projects and Code example**
+Here are my **coursework, research projects, and challenge participations**:
+
+- 📘 **[COMS 576 – Homework & Labs](https://github.com/farabi1038/coms576)**  
+- 🛠 **[ME 592 – Course Projects & HW](https://github.com/farabi1038/ME-592)**  
+- 👁 **[HCI 575 – Computational Perception & Computer Vision](https://github.com/Sakib1418/HCI-575-Computational-Perception-Computer-Vision-)**  
+- 🖥 **[COM S 573 – Advanced Topics in AI](https://github.com/Sakib1418/COM-S-573)**  
+
 ---
 
 ## **💼 Work Experience**
@@ -120,15 +132,7 @@ For a complete list of my publications, visit my **[Google Scholar Profile](http
 
 ---
 
-## **📌 Coursework & Projects**
-Here are my **coursework, research projects, and challenge participations**:
 
-- 📘 **[COMS 576 – Homework & Labs](https://github.com/farabi1038/coms576)**  
-- 🛠 **[ME 592 – Course Projects & HW](https://github.com/farabi1038/ME-592)**  
-- 👁 **[HCI 575 – Computational Perception & Computer Vision](https://github.com/Sakib1418/HCI-575-Computational-Perception-Computer-Vision-)**  
-- 🖥 **[COM S 573 – Advanced Topics in AI](https://github.com/Sakib1418/COM-S-573)**  
-
----
 
 ## **🛠 Technical Skills**
 💻 **Programming Languages:** Python, SQL, Java, C++, R  
