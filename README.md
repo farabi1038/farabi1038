@@ -15,7 +15,9 @@ Here are my **coursework, research projects, and challenge participations**:
 - 🛠 **[ME 592 – Course Projects & HW](https://github.com/farabi1038/ME-592)**  
 - 👁 **[HCI 575 – Computational Perception & Computer Vision](https://github.com/Sakib1418/HCI-575-Computational-Perception-Computer-Vision-)**  
 - 🖥 **[COM S 573 – Advanced Topics in AI](https://github.com/Sakib1418/COM-S-573)**  
-
+- 📚 **[Online Courses Projects](https://github.com/farabi1038/Online_Courses_Projects)**  
+- 🏆 **[Mcity AV Challenge](https://github.com/farabi1038/Mcity-AV-Challenge)**  
+- 🔄 **[RL in Signal Synchronization](https://github.com/farabi1038/RL-in-signal-syncronization)**  
 ---
 
 ## **💼 Current Projects**  
