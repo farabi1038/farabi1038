@@ -66,7 +66,15 @@ Enhanced **snowplow operations in Iowa** using **AI-based autonomous navigation*
   - 📰 [Des Moines Register](https://www.desmoinesregister.com/story/news/local/2024/04/04/iowa-dot-isu-reactor-lab-tests-lane-assistance-technology-snowplows/73038854007/)    
 
 ---
+### 🤖 **Leveraging Video-LLMs for Crash Detection**  
+Applying **Large Language Models (LLMs)** to generate **real-time crash video descriptions and automated crash detection**.  
+🔗 [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:LkGwnXOMwfcC) 
+---
+### 🎥 **Deep Localization for Temporal Action Recognition**  
+Exploring **change-point detection methods** for **temporal action localization** in video analysis.  
+🔗 [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:Se3iqnhoufwC)  
 
+---
 ### 🚗 **Advanced Driver Assistance Systems (ADAS) Development**  
 Engineered **ADAS technology** to enhance **vehicle safety in extreme driving conditions**, contributing to **traffic accident prevention**.  
 
@@ -83,9 +91,6 @@ Applied **Reinforcement Learning (RL) models** to study **biological cellular be
 
 ---
 
-### 🎥 **Deep Localization for Temporal Action Recognition**  
-Exploring **change-point detection methods** for **temporal action localization** in video analysis.  
-🔗 [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:Se3iqnhoufwC)  
 
 ---
 
@@ -95,23 +100,19 @@ Enhancing **sidewalk detection with ensemble learning** to **improve accessibili
 
 ---
 
-### 🤖 **Leveraging Video-LLMs for Crash Detection**  
-Applying **Large Language Models (LLMs)** to generate **real-time crash video descriptions and automated crash detection**.  
-🔗 [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:LkGwnXOMwfcC)  
+ 
 
 
 ## **📝 Publications**
 Here are some of my **recent research papers**:
 
 #### **🚗 AI for Transportation & Safety**
-1. **"Leveraging Video-LLMs for Crash Detection and Narrative Generation: Performance Analysis and Challenges"**  
-   *I. F. Shihab, B. I. Alvee, A. Sharma* – 2024 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&citation_for_view=L0ErrZYAAAAJ:u-x6o8ySG0sC)  
 
-2. **"Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments"**  
+1. **"Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments"**  
    *I. F. Shihab, S. R. Bhagat, A. Sharma* – 2024 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:eQOLeE2rZwMC)  
 
 #### **🧬 Machine Learning & AI in Bioengineering**
-3. **"Effects of sequence features on machine-learned enzyme classification fidelity"**  
+2. **"Effects of sequence features on machine-learned enzyme classification fidelity"**  
    *S. Ferdous, I. F. Shihab, R. Chowdhury, N. Reuel* – *Biotechnology and Bioengineering*, 2024 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:W7OEmFMy1HYC)  
 
 For a complete list of my publications, visit my **[Google Scholar Profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate)**.
