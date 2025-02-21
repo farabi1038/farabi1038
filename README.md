@@ -10,6 +10,7 @@
 
 ## **📌 Coursework & Projects and Code example**
 Here are my **coursework, research projects, and challenge participations**:
+### Code Example
 
 - 📘 **[COMS 576 – Homework & Labs](https://github.com/farabi1038/coms576)**  
 - 🛠 **[ME 592 – Course Projects & HW](https://github.com/farabi1038/ME-592)**  
