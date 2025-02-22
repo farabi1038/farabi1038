@@ -14,7 +14,7 @@ Here are my **coursework, research projects, and challenge participations**:
 
 - 📘 **[COMS 576 – Homework & Labs](https://github.com/farabi1038/coms576)**  
 - 🛠 **[ME 592 – Course Projects & HW](https://github.com/farabi1038/ME-592)**  
-- 👁 **[HCI 575 – Computational Perception & Computer Vision](https://github.com/Sakib1418/HCI-575-Computational-Perception-Computer-Vision-)**  
+- 👁 **[COM S 575 – Computational Perception & Computer Vision](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20575%20%E2%80%93%20Computational%20Perception%20%26%20Computer%20Vision)**  
 - 🖥 **[COM S 573 – Advanced Topics in AI](https://github.com/Sakib1418/COM-S-573)**  
 - 📚 **[Online Courses Projects](https://github.com/farabi1038/Online_Courses_Projects)**  
 - 🏆 **[Mcity AV Challenge](https://github.com/farabi1038/Mcity-AV-Challenge)**  
