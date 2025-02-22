@@ -8,17 +8,24 @@
 
 ---
 
-## **📌 Coursework & Projects and Code example**
+## **📌 Coursework & Projects and Code Examples**
 Here are my **coursework, research projects, and challenge participations**:
-### Code Example
 
+### **📜 Code Examples**
 - 📘 **[COMS 576 – Homework & Labs](https://github.com/farabi1038/coms576)**  
 - 🛠 **[ME 592 – Course Projects & HW](https://github.com/farabi1038/ME-592)**  
 - 👁 **[COM S 575 – Computational Perception & Computer Vision](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20575%20%E2%80%93%20Computational%20Perception%20%26%20Computer%20Vision)**  
-- 🖥 **[COM S 573 – Advanced Topics in AI](https://github.com/Sakib1418/COM-S-573)**  
+- 🤖 **[COM S 573 – Machine Learning](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20573-%20Machine%20Learning)**  
+- 📊 **[COM S 574 – Intro to Machine Learning](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20574%20-%20Intro%20to%20Machine%20Learning)**  
+- 🖥 **[COM S 572 – Artificial Intelligence](https://github.com/Sakib1418/COM-S-573)**  
+
+### **🎯 Research & Challenges**
 - 📚 **[Online Courses Projects](https://github.com/farabi1038/Online_Courses_Projects)**  
 - 🏆 **[Mcity AV Challenge](https://github.com/farabi1038/Mcity-AV-Challenge)**  
 - 🔄 **[RL in Signal Synchronization](https://github.com/farabi1038/RL-in-signal-syncronization)**  
+
+🔗 **More coursework and projects:** [Complete List](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main)  
+
 ---
 
 ## **💼 Current Projects**  
