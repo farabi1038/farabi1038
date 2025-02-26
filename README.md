@@ -11,7 +11,7 @@
 ## 📌 Code examples from Coursework, Projects and hobby  
 Explore my **coursework, research projects, and challenge participations** below.
 
-### 📜 Code Examples  
+### 📜 Hobby projects  
 - 🔍 **[A Webpage for Wiki Word Analysis with Cache](https://github.com/farabi1038/implmnt_from_scratch/tree/main/wiki_world_analyzer)**  
 - 🔢 **[Paligemma from Scratch](https://github.com/farabi1038/implmnt_from_scratch/tree/main/paligemma)**  
 
