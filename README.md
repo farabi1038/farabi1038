@@ -8,25 +8,28 @@
 
 ---
 
-## **📌 Coursework & Projects and Code Examples**
-Here are my **coursework, research projects, and challenge participations**:
+## 📌 Code examples from Coursework, Projects and hobby  
+Explore my **coursework, research projects, and challenge participations** below.
 
-### **📜 Code Examples**
--     **[A webpage for wiki word analysis with cache](https://github.com/farabi1038/implmnt_from_scratch/tree/main/wiki_world_analyzer)
--     **[Paligemma from scratch] (https://github.com/farabi1038/implmnt_from_scratch/tree/main/paligemma)
-- 📘 **[COMS 576 – Motion Strategy Algorithms and Applications](https://github.com/farabi1038/coms576)**  
+### 📜 Code Examples  
+- 🔍 **[A Webpage for Wiki Word Analysis with Cache](https://github.com/farabi1038/implmnt_from_scratch/tree/main/wiki_world_analyzer)**  
+- 🔢 **[Paligemma from Scratch](https://github.com/farabi1038/implmnt_from_scratch/tree/main/paligemma)**  
+
+### 📘 Coursework  
+- 🚀 **[COMS 576 – Motion Strategy Algorithms and Applications](https://github.com/farabi1038/coms576)**  
 - 🛠 **[ME 592 – Data Analytics and Machine Learning for Cyber-Physical Systems Applications](https://github.com/farabi1038/ME-592)**  
 - 👁 **[COM S 575 – Computational Perception & Computer Vision](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20575%20%E2%80%93%20Computational%20Perception%20%26%20Computer%20Vision)**  
 - 🤖 **[COM S 573 – Machine Learning](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20573-%20Machine%20Learning)**  
 - 📊 **[COM S 574 – Intro to Machine Learning](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20574%20-%20Intro%20to%20Machine%20Learning)**  
 - 🖥 **[COM S 572 – Artificial Intelligence](https://github.com/Sakib1418/COM-S-573)**  
 
-### **🎯 Research & Challenges**
+### 🎯 Research & Challenges  
 - 📚 **[Online Courses Projects](https://github.com/farabi1038/Online_Courses_Projects)**  
 - 🏆 **[Mcity AV Challenge](https://github.com/farabi1038/Mcity-AV-Challenge)**  
 - 🔄 **[RL in Signal Synchronization](https://github.com/farabi1038/RL-in-signal-syncronization)**  
 
-🔗 **More coursework and projects:** [Complete List](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main)  
+🔗 **More Coursework and Projects:** [Complete List](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main)  
+
 
 ---
 
