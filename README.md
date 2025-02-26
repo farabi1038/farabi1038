@@ -8,10 +8,10 @@
 
 ---
 
-## 📌 Code examples from Coursework, Projects and hobby  
+## 📌 Code examples from Coursework, Projects and hobby   
 Explore my **coursework, research projects, and challenge participations** below.
 
-### 📜 Hobby projects  
+### 📜 Code Examples  
 - 🔍 **[A Webpage for Wiki Word Analysis with Cache](https://github.com/farabi1038/implmnt_from_scratch/tree/main/wiki_world_analyzer)**  
 - 🔢 **[Paligemma from Scratch](https://github.com/farabi1038/implmnt_from_scratch/tree/main/paligemma)**  
 
@@ -24,9 +24,11 @@ Explore my **coursework, research projects, and challenge participations** below
 - 🖥 **[COM S 572 – Artificial Intelligence](https://github.com/Sakib1418/COM-S-573)**  
 
 ### 🎯 Research & Challenges  
-- 📚 **[Online Courses Projects](https://github.com/farabi1038/Online_Courses_Projects)**  
 - 🏆 **[Mcity AV Challenge](https://github.com/farabi1038/Mcity-AV-Challenge)**  
 - 🔄 **[RL in Signal Synchronization](https://github.com/farabi1038/RL-in-signal-syncronization)**  
+
+### 📚 Online Course Projects  
+- 📖 **[Online Courses Projects](https://github.com/farabi1038/Online_Courses_Projects)**  
 
 🔗 **More Coursework and Projects:** [Complete List](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main)  
 
