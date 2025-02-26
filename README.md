@@ -12,6 +12,8 @@
 Here are my **coursework, research projects, and challenge participations**:
 
 ### **📜 Code Examples**
+-     **[A webpage for wiki word analysis with cache](https://github.com/farabi1038/implmnt_from_scratch/tree/main/wiki_world_analyzer)
+-     **[Paligemma from scratch] (https://github.com/farabi1038/implmnt_from_scratch/tree/main/paligemma)
 - 📘 **[COMS 576 – Motion Strategy Algorithms and Applications](https://github.com/farabi1038/coms576)**  
 - 🛠 **[ME 592 – Data Analytics and Machine Learning for Cyber-Physical Systems Applications](https://github.com/farabi1038/ME-592)**  
 - 👁 **[COM S 575 – Computational Perception & Computer Vision](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20575%20%E2%80%93%20Computational%20Perception%20%26%20Computer%20Vision)**  
