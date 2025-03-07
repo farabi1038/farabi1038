@@ -11,7 +11,7 @@
 ## 📌 Code examples from Coursework, Projects and hobby   
 Explore my **coursework, research projects, and challenge participations** below.
 
-###  GEN AI-powered Projects**
+###  GEN AI-powered Projects
   - **[A GenAI powered Japanese Language Portal](https://github.com/farabi1038/free-genai-bootcamp-2025)**
 
 ### 📜 Code Examples  
