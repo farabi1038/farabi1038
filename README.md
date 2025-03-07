@@ -13,7 +13,7 @@ Explore my **coursework, research projects, and challenge participations** below
 
 ###  GEN AI-powered Projects
   - **[A GenAI powered Japanese Language Portal](https://github.com/farabi1038/free-genai-bootcamp-2025)**
-  - **[Google's famous Paligemma build from scratch](https://github.com/farabi1038/implmnt_from_scratch/tree/main/paligemma)** 
+  - **[Google's famous Paligemma build from scratch in Pytorch](https://github.com/farabi1038/implmnt_from_scratch/tree/main/paligemma)** 
 
 ### 📜 Code Examples  
 - 🔍 **[A Webpage for Wiki Word Analysis with Cache](https://github.com/farabi1038/implmnt_from_scratch/tree/main/wiki_world_analyzer)**  
