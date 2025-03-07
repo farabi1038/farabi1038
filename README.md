@@ -158,11 +158,55 @@ For a complete list of my publications, visit my **[Google Scholar Profile](http
 
 
 ## **🛠 Technical Skills**
-💻 **Programming Languages:** Python, SQL, Java, C++, R  
-🧠 **AI & ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, Gym, OpenCV, Keras  
-📊 **Data Science & Visualization:** Tableau, Matplotlib, Bokeh, Seaborn, Plotly  
-🌍 **Geospatial & GIS Tools:** QGIS, ArcGIS, Digital Map Making, Remote Sensing  
-☁️ **Cloud & DevOps:** AWS, Docker, Git  
+
+💻 **Programming & Development**  
+   
+   *Languages:* Python, Java, SQL, C++, R, Go;  
+   
+   *Web:* FastAPI, Flask, Streamlit, React (Amateur);  
+   
+   *Databases:* MySQL, PostgreSQL, MongoDB, SQLite, Elasticsearch, Amazon Athena;  
+   
+   *DevOps:* AWS, Git, GitHub, Jenkins, Docker, Kubernetes, Terraform  
+
+🧠 **Machine Learning & GenAI**  
+
+   *Frameworks:* PyTorch, Scikit-learn, Keras, ONNX Runtime;  
+   
+   *LLMOps:* Azure Databricks, LangChain, Ollama, TorchServe;  
+   
+   *Vector DBs:* Chroma, Faiss, Pinecone  
+
+⚙ **Data Engineering**  
+
+   *Big Data:* Spark, PySpark, Hadoop;  
+   
+   *Pipelines:* ETL, AWS Data Pipeline, Apache Kafka;  
+   
+   *Monitoring:* Splunk, Datadog  
+
+👀 **Computer Vision & Simulation**  
+
+   *Tools:* OpenCV, SUMO, Isaac Gym, CARLA, OpenAI Gym  
+
+🤖 **Reinforcement Learning**  
+
+   *Frameworks:* Ray, RLlib, Stable Baselines3  
+
+📊 **Data Visualization & GIS**  
+
+   *Tools:* Tableau, Matplotlib, Seaborn, Plotly, QGIS, ArcGIS;  
+   
+   *Capabilities:* Digital mapping, remote sensing, terrain modeling, spatial analytics  
+
+📈 **Statistical Analysis**  
+
+   *Tools:* R Studio, MATLAB  
+
+🔬 **QNN and QML**  
+
+   *Frameworks:* torchquantum, Qiskit, StrawberryFields, PennyLane  
+
 
 ---
 
