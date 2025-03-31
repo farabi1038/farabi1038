@@ -155,7 +155,16 @@ For a complete list of my publications, visit my **[Google Scholar Profile](http
 
 ---
 
+---
 
+## 🧑‍⚖️ Academic Service & Peer Review
+
+Contributing to the academic community as a **peer reviewer** for top-tier conferences:
+
+- 🛣 **IEEE Intelligent Transportation Systems Conference (ITSC)** – Reviewer *(2023, 2024)*  
+- 🎥 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)** – Reviewer *(2024)*  
+
+---
 
 ## **🛠 Technical Skills**
 
