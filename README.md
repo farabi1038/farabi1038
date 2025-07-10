@@ -98,6 +98,12 @@ Enhancing **sidewalk detection with ensemble learning** to **improve accessibili
 
 ## **💼 Work Experience**
 
+### **Applied Scientist Intern**
+📍 *Amazon, Inc.* | 🗓 *June 2025 – Aug 2025*
+- Developed and enhanced **knowledge graphs to improve semantic search and recommendation systems**.
+- Researched and implemented **KGE for information extraction and graph-based feature engineering**.
+- Collaborated with senior scientists to **integrate new data sources and scale knowledge graph construction**.
+
 ### **Graduate Research Assistant**  
 📍 *Iowa State University* | 🗓 *Aug 2020 – Present*  
 - Conducting **AI-driven research in transportation, safety, and video-based crash detection**.  
@@ -124,7 +130,7 @@ Enhancing **sidewalk detection with ensemble learning** to **improve accessibili
 ---
 
 ## **📚 Education**
-🎓 **Ph.D., Computer Science** (*Expected Dec 2025*)  
+🎓 **Ph.D., Computer Science** (*Expected August 2025*)  
 📍 Iowa State University  
 
 🎓 **M.S., Artificial Intelligence** (*Graduated Jan 2024*)  
@@ -159,8 +165,9 @@ For a complete list of my publications, visit my **[Google Scholar Profile](http
 
 Contributing to the academic community as a **peer reviewer** for top-tier conferences:
 
-- 🛣 **IEEE Intelligent Transportation Systems Conference (ITSC)** – Reviewer *(2023, 2024, 2025)*  
-- 🎥 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)** – Reviewer *(2024)*  
+- 🛣 **IEEE Intelligent Transportation Systems Conference (ITSC)** – Reviewer *(2023, 2024, 2025)*
+- 👁️ **IEEE/CVF International Conference on Computer Vision (ICCV)** – Reviewer *(2025)*
+- 🎥 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)** – Reviewer *(2024)*
 - 🖼 **ACM International Conference on Multimedia (ACM MM)** – Reviewer *(2025)*
 
 
