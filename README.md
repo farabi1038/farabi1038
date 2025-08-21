@@ -42,11 +42,7 @@ Explore my **coursework, research projects, and challenge participations** below
 ## **💼 Current Projects**  
 👨‍🔬 **Graduate Research at Iowa State University** *(Aug 2020 – Present)*  
 🚀 My current research focuses on applying **AI and machine learning to transportation safety systems, computational modeling, and video-based crash detection**.
-
-- **Crash Data Analysis** – Developing AI-based frameworks to **analyze crash data, predict risks, and reduce fatality rates**.  
-- **Leveraging Video-LLMs for Crash Detection** – Applying **Large Language Models (LLMs)** to generate **real-time crash video descriptions and automated crash detection**.  
-
-- **Teaching & Course Development** – Assisting faculty in designing **machine learning and AI coursework** while evaluating **student performance**.  
+  
 
 ---
 
@@ -55,19 +51,19 @@ Explore my **coursework, research projects, and challenge participations** below
 ### Crash Analysis
 - **Crash Data Analysis** – Developing AI-based frameworks to **analyze crash data, predict risks, and reduce fatality rates**.
   
-  [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:dhFuZR0502QC)
+  [Identification of Potentially Misclassified Crash Narratives using Machine Learning (ML) and Deep Learning (DL)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:dhFuZR0502QC)
   
-  [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:MXK_kJrjxJIC)
+  [Accuracy is Not Agreement: Expert-Aligned Evaluation of Crash Narrative Classification Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:MXK_kJrjxJIC)
   
   
   
 - **Leveraging Video-LLMs for Crash Detection** – Applying **Large Language Models (LLMs)** to generate **real-time crash video descriptions and automated crash detection**.
   
-   [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:8k81kl-MbHgC)
+   [Crash time matters: Hybridmamba for fine-grained temporal localization in traffic surveillance footage](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:8k81kl-MbHgC)
   
-   [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:Wp0gIr-vW9MC)
+   [Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:Wp0gIr-vW9MC)
   
-   [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:qxL8FJ1GzNcC)
+   [Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:qxL8FJ1GzNcC)
 
 ### 🚛 **Iowa DOT Snowplow Navigation Project**  
 Enhanced **snowplow operations in Iowa** using **AI-based autonomous navigation** to improve **lane assistance and winter road safety**.  
