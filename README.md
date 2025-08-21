@@ -54,13 +54,13 @@ Explore my **coursework, research projects, and challenge participations** below
 
 ### Crash Analysis
 - **Crash Data Analysis** – Developing AI-based frameworks to **analyze crash data, predict risks, and reduce fatality rates**.
-  [Publication Link] (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:dhFuZR0502QC)
-  [Publication Link] (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:dhFuZR0502QC)
+  [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:dhFuZR0502QC)
+  [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:dhFuZR0502QC)
   
 - **Leveraging Video-LLMs for Crash Detection** – Applying **Large Language Models (LLMs)** to generate **real-time crash video descriptions and automated crash detection**.
-   [Publication Link] (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:8k81kl-MbHgC)
-   [Publication Link] (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:Wp0gIr-vW9MC)
-   [Publication Link] (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:qxL8FJ1GzNcC)
+   [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:8k81kl-MbHgC)
+   [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:Wp0gIr-vW9MC)
+   [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:qxL8FJ1GzNcC)
 
 ### 🚛 **Iowa DOT Snowplow Navigation Project**  
 Enhanced **snowplow operations in Iowa** using **AI-based autonomous navigation** to improve **lane assistance and winter road safety**.  
