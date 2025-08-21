@@ -120,6 +120,17 @@ Enhancing **sidewalk detection with ensemble learning** to **improve accessibili
 
 ## **💼 Work Experience**
 
+### Lecturer 
+📍 *Dallas College.* | 🗓 *August 2025 – Present*
+- Taught classes in accordance with course descriptions and syllabi, maintained a regular
+schedule of teaching and office hours, and provided timely feedback to students.
+- Developed and enhanced curriculum and instructional materials, employing diverse
+and innovative teaching methods to accommodate various student learning styles.
+- Student Assessment: Designed and implemented a variety of assessment methods to evaluate student learning
+and progress toward course objectives.
+- Institutional Service: Actively supported the college’s mission and goals by serving on departmental and
+college-wide committees and participating in curriculum review
+
 ### **Applied Scientist Intern**
 📍 *Amazon, Inc.* | 🗓 *June 2025 – Aug 2025*
 - Developed and enhanced **knowledge graphs to improve semantic search and recommendation systems**.
@@ -127,7 +138,7 @@ Enhancing **sidewalk detection with ensemble learning** to **improve accessibili
 - Collaborated with senior scientists to **integrate new data sources and scale knowledge graph construction**.
 
 ### **Graduate Research Assistant**  
-📍 *Iowa State University* | 🗓 *Aug 2020 – Present*  
+📍 *Iowa State University* | 🗓 *Aug 2020 – May 2025*  
 - Conducting **AI-driven research in transportation, safety, and video-based crash detection**.  
 - Developing **crash analysis models, Video-LLMs for crash detection, and AI-enhanced urban planning tools**.  
 - Assisting in **teaching machine learning and AI coursework**, and mentoring students in research projects.  
