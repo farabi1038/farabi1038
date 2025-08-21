@@ -96,7 +96,9 @@ Engineered **ADAS technology** to enhance **vehicle safety in extreme driving co
 ---
 
 ### 🧬 **Deep Learning for Bio-Monitoring**  
-Developed **deep learning models** to accurately **predict heart and respiratory rates**, aiding **health monitoring and biomedical research**.  
+Developed **deep learning models** to accurately **predict heart and respiratory rates**, aiding **health monitoring and biomedical research**. 
+
+[Heart rate and respiratory rate prediction from noisy real-world smartphone based on Deep Learning methods](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:4DMP91E08xMC)
 
 ---
 
