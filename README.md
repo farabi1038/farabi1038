@@ -40,8 +40,10 @@ Explore my **coursework, research projects, and challenge participations** below
 ---
 
 ## **💼 Current Projects**  
-👨‍🔬 **Graduate Research at Iowa State University** *(Aug 2020 – Present)*  
-🚀 My current research focuses on applying **AI and machine learning to transportation safety systems, computational modeling, and video-based crash detection**.
+ 
+🚀 My research usually focuses on applying **AI and machine learning to transportation safety systems, computational modeling, and video-based crash detection**.
+
+- **Knowledge Graph Embedding** - However, Currently I am working on how to deal with sparsity in **Knowledge Graph** and how to represent them in Embeddding space.
   
 
 ---
@@ -64,6 +66,12 @@ Explore my **coursework, research projects, and challenge participations** below
    [Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:Wp0gIr-vW9MC)
   
    [Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:qxL8FJ1GzNcC)
+
+### 🚛 **Reward Hacking mitigation Project**
+I worked on this side project as my hobby to look at how reward hacking of SOTA RL methods ,how they impact and how it can be taken care of
+
+[Detecting and mitigating reward hacking in reinforcement learning systems: A comprehensive empirical study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:QIV2ME_5wuYC)
+
 
 ### 🚛 **Iowa DOT Snowplow Navigation Project**  
 Enhanced **snowplow operations in Iowa** using **AI-based autonomous navigation** to improve **lane assistance and winter road safety**.  
