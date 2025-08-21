@@ -1,7 +1,7 @@
 ## Hi there! I’m Farabi! 👋  
 🚀 Welcome to my GitHub profile! I'm passionate about **Large Language Models, Reinforcement Learning, Signal Processing, Autonomous Systems, Computer Vision, and AI-driven research**. My work spans **data science, machine learning, traffic safety, and computational perception**. Here, you'll find a collection of my **research, coursework, challenges, and projects**.
 
-🔎 **For more details about my experience and expertise, feel free to check my [Resume](./Ibne_Farabi_Shihab_Resume.pdf).**
+🔎 **For more details about my experience and expertise, feel free to check my [Resume](./Ibne_Farabi_Shihab_Resume.pdf). If you are looking for my academic resume , check [here](./Ibne_Farabi_Shihab_Resume_Teaching.pdf) **
 
 
 
