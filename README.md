@@ -183,7 +183,8 @@ Here are some of my **recent research papers**:
 
 #### **🚗 AI for Transportation & Safety**
 
-1. **"Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments"**  
+1. Shihab, Ibne Farabi, Sanjeda Akter, and Anuj Sharma. "Efficient unstructured pruning of mamba state-space models for resource-constrained environments." arXiv preprint arXiv:2505.08299 (2025).
+2. **"Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments"**  
    *I. F. Shihab, S. R. Bhagat, A. Sharma* – 2024 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:eQOLeE2rZwMC)  
 
 #### **🧬 Machine Learning & AI in Bioengineering**
