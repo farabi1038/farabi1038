@@ -163,13 +163,13 @@ college-wide committees and participating in curriculum review
 ---
 
 ## **📚 Education**
-🎓 **Ph.D., Computer Science** (*Expected August 2025*)  
+🎓 **Ph.D., Computer Science** (*Graduated October 2025*)  
 📍 Iowa State University  
 
-🎓 **M.S., Artificial Intelligence** (*Graduated Jan 2024*)  
+🎓 **M.S., Artificial Intelligence** (*Graduated January 2024*)  
 📍 Iowa State University  
 
-🎓 **B.Sc., Computer Science & Engineering** (*Graduated 2018*)  
+🎓 **B.Sc., Computer Science & Engineering** (*Graduated August 2018*)  
 📍 BRAC University  
 
 
