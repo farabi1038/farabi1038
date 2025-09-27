@@ -199,10 +199,11 @@ For a complete list of my publications, visit my **[Google Scholar Profile](http
 
 Contributing to the academic community as a **peer reviewer** for top-tier conferences:
 
-- 🛣 **IEEE Intelligent Transportation Systems Conference (ITSC)** – Reviewer *(2023, 2024, 2025)*
-- 👁️ **IEEE/CVF International Conference on Computer Vision (ICCV)** – Reviewer *(2025)*
-- 🎥 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)** – Reviewer *(2024)*
-- 🖼 **ACM International Conference on Multimedia (ACM MM)** – Reviewer *(2025)*
+- 🛣 **IEEE Intelligent Transportation Systems Conference (ITSC)** – Reviewer *(2023, 2024, 2025)*  
+- 👁️ **IEEE/CVF International Conference on Computer Vision (ICCV)** – Reviewer *(2025)*  
+- 🎥 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)** – Reviewer *(2024)*  
+- 🖼 **ACM International Conference on Multimedia (ACM MM)** – Reviewer *(2025)*  
+- 🔮 **International Conference on Learning Representations (ICLR)** – Reviewer *(2026)*  
 
 
 ---
