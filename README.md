@@ -197,13 +197,18 @@ For a complete list of my publications, visit my **[Google Scholar Profile](http
 
 ## 🧑‍⚖️ Academic Service & Peer Review
 
-Contributing to the academic community as a **peer reviewer** for top-tier conferences:
+Here’s your fully updated version in **Markdown format**, now including **WACV 2026**:
+
+### 🧑‍⚖️ Contributing to the Academic Community as a **Peer Reviewer** for Top-Tier Conferences
 
 - 🛣 **IEEE Intelligent Transportation Systems Conference (ITSC)** – Reviewer *(2023, 2024, 2025)*  
 - 👁️ **IEEE/CVF International Conference on Computer Vision (ICCV)** – Reviewer *(2025)*  
 - 🎥 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)** – Reviewer *(2024)*  
 - 🖼 **ACM International Conference on Multimedia (ACM MM)** – Reviewer *(2025)*  
 - 🔮 **International Conference on Learning Representations (ICLR)** – Reviewer *(2026)*  
+- 💬 **European Chapter of the Association for Computational Linguistics (EACL)** – Reviewer *(2026)*  
+- 📷 **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)** – Reviewer *(2026)*
+ 
 
 
 ---
