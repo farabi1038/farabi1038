@@ -14,18 +14,6 @@
 
 ## 🎯 About Me
 
-I'm passionate about applying AI and machine learning to solve real-world problems, particularly in:
-- 🚗 **Transportation Safety Systems** using Computer Vision and LLMs
-- 🤖 **Reinforcement Learning** for autonomous systems
-- 🔬 **Quantum Neural Networks** for enhanced security
-- 📊 **Data Analytics** for environmental and agricultural applications
-
-📄 **[Download My Resume](./Ibne_Farabi_Shihab_Resume.pdf)** | **[Academic Resume](./Ibne_Farabi_Shihab_Resume_Teaching.pdf)**
-
----
-
-## 🎯 About Me
-
 I'm an AI researcher and data scientist with expertise spanning multiple high-impact domains. My work bridges academic research and practical industry applications, with a focus on deploying AI solutions that create measurable real-world impact.
 
 📄 **[Download My Resume](./Ibne_Farabi_Shihab_Resume.pdf)** | **[Academic Resume](./Ibne_Farabi_Shihab_Resume_Teaching.pdf)**
