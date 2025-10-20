@@ -998,7 +998,7 @@ Dallas, TX, USA
 
 ### ⭐ Thank you for visiting my profile! Happy coding! 🚀
 
-*"I have to win. If not eventually, I will.  
-> There is no alternative."*
+*"I have to win. If not eventually, I will. 
+There is no alternative."*
 
 </div>
