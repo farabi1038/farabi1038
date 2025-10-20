@@ -35,7 +35,7 @@ I'm an AI researcher and data scientist with expertise spanning multiple high-im
 <td width="50%">
 
 **🔬 Research Impact**
-- 📚 **20+ Publications** at top-tier venues
+- 📚 **10+ Publications** at top-tier venues
 - 🏆 **6 Papers Accepted** to ECAI, EMNLP, ITSC 2025
 - 🎯 **4 Under Review** at ICLR 2026
 - 👥 **Reviewer** for CVPR, ICCV, ICLR, ACM MM
