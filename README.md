@@ -605,7 +605,7 @@ EACL '26
 </td>
 <td colspan="3" align="center">
 
-**📊 Total Reviews:** 15+ papers across 8 top-tier conferences
+**📊 Total Reviews:** 30+ papers across 8 top-tier conferences
 
 </td>
 </tr>
