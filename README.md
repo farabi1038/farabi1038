@@ -1,283 +1,201 @@
-## Hi there! I’m Farabi! 👋  
-🚀 Welcome to my GitHub profile! I'm passionate about **Large Language Models, Reinforcement Learning, Signal Processing, Autonomous Systems, Computer Vision, and AI-driven research**. My work spans **data science, machine learning, traffic safety, and computational perception**. Here, you'll find a collection of my **research, coursework, challenges, and projects**.
+# Hi there! I'm Farabi! 👋
 
-🔎 **For more details about my experience and expertise, feel free to check my [Resume](./Ibne_Farabi_Shihab_Resume.pdf). If you are looking for my academic resume , check [here](./Ibne_Farabi_Shihab_Resume_Teaching.pdf) **
+**Ph.D. in Computer Science | AI Researcher | Data Scientist**
 
+🎓 Recently graduated from Iowa State University (October 2025)  
+📍 Currently: Lecturer at Dallas College, TX  
+🔬 Specializing in: Large Language Models, Computer Vision, Reinforcement Learning, and Transportation Safety
 
-
-
----
-
-## 📌 Code examples from Coursework, Projects and hobby   
-Explore my **coursework, research projects, and challenge participations** below.
-
-###  GEN AI-powered Projects (Hobby)
-  - **[A GenAI powered Japanese Language Portal](https://github.com/farabi1038/free-genai-bootcamp-2025)**
-  - **[Google's famous Paligemma build from scratch in Pytorch](https://github.com/farabi1038/implmnt_from_scratch/tree/main/paligemma)** 
-
-### 📜 Code Examples  
-- 🔍 **[A Webpage for Wiki Word Analysis with Cache](https://github.com/farabi1038/implmnt_from_scratch/tree/main/wiki_world_analyzer)**  
-- 🔢 **[Paligemma from Scratch](https://github.com/farabi1038/implmnt_from_scratch/tree/main/paligemma)**  
-
-### 📘 Coursework  
-- 🚀 **[COMS 576 – Motion Strategy Algorithms and Applications](https://github.com/farabi1038/coms576)**  
-- 🛠 **[ME 592 – Data Analytics and Machine Learning for Cyber-Physical Systems Applications](https://github.com/farabi1038/ME-592)**  
-- 👁 **[COM S 575 – Computational Perception & Computer Vision](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20575%20%E2%80%93%20Computational%20Perception%20%26%20Computer%20Vision)**  
-- 🤖 **[COM S 573 – Machine Learning](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20573-%20Machine%20Learning)**  
-- 📊 **[COM S 574 – Intro to Machine Learning](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20574%20-%20Intro%20to%20Machine%20Learning)**  
-- 🖥 **[COM S 572 – Artificial Intelligence](https://github.com/Sakib1418/COM-S-573)**  
-
-### 🎯 Research & Challenges  
-- 🏆 **[Mcity AV Challenge](https://github.com/farabi1038/Mcity-AV-Challenge)**  
-- 🔄 **[RL in Signal Synchronization](https://github.com/farabi1038/RL-in-signal-syncronization)**  
-
-### 📚 Online Course Projects  
-- 📖 **[Online Courses Projects](https://github.com/farabi1038/Online_Courses_Projects)**  
-
-🔗 **More Coursework and Projects:** [Complete List](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ibne-farabi-shihab-271665bb/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-red)](https://scholar.google.com/citations?user=L0ErrZYAAAAJ)
+[![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:ibnfarabishihab@gmail.com)
 
 ---
 
-## **💼 Current Projects**  
- 
-🚀 My research usually focuses on applying **AI and machine learning to transportation safety systems, computational modeling, and video-based crash detection**.
+## 🎯 About Me
 
-- **Knowledge Graph Embedding** - However, Currently I am working on how to deal with sparsity in **Knowledge Graph** and how to represent them in Embeddding space.
-  
+I'm passionate about applying AI and machine learning to solve real-world problems, particularly in:
+- 🚗 **Transportation Safety Systems** using Computer Vision and LLMs
+- 🤖 **Reinforcement Learning** for autonomous systems
+- 🔬 **Quantum Neural Networks** for enhanced security
+- 📊 **Data Analytics** for environmental and agricultural applications
 
----
-
-## **🔙 Past Projects**  
-
-### Crash Analysis
-- **Crash Data Analysis** – Developing AI-based frameworks to **analyze crash data, predict risks, and reduce fatality rates**.
-  
-  [Identification of Potentially Misclassified Crash Narratives using Machine Learning (ML) and Deep Learning (DL)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:dhFuZR0502QC)
-  
-  [Accuracy is Not Agreement: Expert-Aligned Evaluation of Crash Narrative Classification Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:MXK_kJrjxJIC)
-  
-  
-  
-- **Leveraging Video-LLMs for Crash Detection** – Applying **Large Language Models (LLMs)** to generate **real-time crash video descriptions and automated crash detection**.
-  
-   [Crash time matters: Hybridmamba for fine-grained temporal localization in traffic surveillance footage](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:8k81kl-MbHgC)
-  
-   [Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:Wp0gIr-vW9MC)
-  
-   [Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:qxL8FJ1GzNcC)
-
-### 🚛 **Reward Hacking mitigation Project**
-I worked on this side project as my hobby to look at how reward hacking of SOTA RL methods ,how they impact and how it can be taken care of
-
-[Detecting and mitigating reward hacking in reinforcement learning systems: A comprehensive empirical study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:QIV2ME_5wuYC)
-
-
-### 🚛 **Iowa DOT Snowplow Navigation Project**  
-Enhanced **snowplow operations in Iowa** using **AI-based autonomous navigation** to improve **lane assistance and winter road safety**.  
-- 📰 **Featured In:**  
-  - 🏛 [Iowa State University News](https://www.news.iastate.edu/news/2024/03/05/snowplow)  
-  - 📰 [Des Moines Register](https://www.desmoinesregister.com/story/news/local/2024/04/04/iowa-dot-isu-reactor-lab-tests-lane-assistance-technology-snowplows/73038854007/)    
-
----
-### 🤖 **Leveraging Video-LLMs for Crash Detection**  
-Applying **Large Language Models (LLMs)** to generate **real-time crash video descriptions and automated crash detection**.  
-🔗 [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:LkGwnXOMwfcC) 
-
----
-### 🎥 **Deep Localization for Temporal Action Recognition**  
-Exploring **change-point detection methods** for **temporal action localization** in video analysis.  
-🔗 [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:Se3iqnhoufwC)  
-
----
-### 🚗 **Advanced Driver Assistance Systems (ADAS) Development**  
-Engineered **ADAS technology** to enhance **vehicle safety in extreme driving conditions**, contributing to **traffic accident prevention**.  
+📄 **[Download My Resume](./Ibne_Farabi_Shihab_Resume.pdf)** | **[Academic Resume](./Ibne_Farabi_Shihab_Resume_Teaching.pdf)**
 
 ---
 
-### 🧬 **Deep Learning for Bio-Monitoring**  
-Developed **deep learning models** to accurately **predict heart and respiratory rates**, aiding **health monitoring and biomedical research**. 
-[Heart rate and respiratory rate prediction from noisy real-world smartphone based on Deep Learning methods](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:4DMP91E08xMC)
+## 💼 Professional Experience
+
+### 🏢 Current Position
+**Lecturer** | Dallas College | *August 2025 - Present*
+- Teaching computer science courses with innovative methodologies
+- Developing curriculum and assessment materials
+- Mentoring students in AI and machine learning concepts
+
+### 🚀 Recent Industry Experience
+**Applied Scientist Intern** | Amazon Inc. | *June 2025 - August 2025*
+- Developed Knowledge Graph Embedding (KGE) frameworks
+- Pioneered novel negative sampling techniques for sparse graphs
+- Built intelligent model recommendation systems
+
+**Data Scientist** | SoilSerdem | *January 2024 - December 2024*
+- Engineered precision Soil Mapping Engine (35% accuracy improvement)
+- Optimized AWS integration reducing costs by 20%
+- Led cross-departmental ML initiatives
 
 ---
 
-### 🔬 **Reinforcement Learning in Cellular Simulations (Game of Cells)**  
-Applied **Reinforcement Learning (RL) models** to study **biological cellular behavior**.  
-🔗 [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:hqOjcs7Dif8C)  
+## 🔬 Research Highlights
+
+### 🎓 Ph.D. Research Focus
+- **Crash Detection & Analysis**: Video-LLMs for automated crash narrative generation
+- **Transportation Safety**: AI-based navigation for Iowa DOT snowplow operations
+- **Quantum Computing**: QNN architectures for network security (10% accuracy improvement)
+- **Reinforcement Learning**: Applications in cellular simulations and autonomous systems
+
+### 📊 Current Research
+**Knowledge Graph Embedding** - Addressing sparsity challenges in knowledge graphs and developing efficient embedding representations
 
 ---
 
+## 📚 Featured Projects
+
+### 🌟 GenAI-Powered Applications
+- **[Japanese Language Portal](https://github.com/farabi1038/free-genai-bootcamp-2025)** - GenAI-powered language learning platform
+- **[PaliGemma from Scratch](https://github.com/farabi1038/implmnt_from_scratch/tree/main/paligemma)** - PyTorch implementation of Google's PaliGemma
+
+### 💻 Technical Implementations
+- **[Wiki Word Analyzer](https://github.com/farabi1038/implmnt_from_scratch/tree/main/wiki_world_analyzer)** - Web-based analysis tool with caching
+- **[RL Signal Synchronization](https://github.com/farabi1038/RL-in-signal-syncronization)** - Reinforcement learning for traffic signals
+- **[Mcity AV Challenge](https://github.com/farabi1038/Mcity-AV-Challenge)** - Autonomous vehicle competition project
+
+### 📖 Academic Coursework
+| Course | Repository |
+|--------|------------|
+| Motion Strategy Algorithms | [COMS 576](https://github.com/farabi1038/coms576) |
+| Data Analytics & ML for CPS | [ME 592](https://github.com/farabi1038/ME-592) |
+| Computational Perception & CV | [COMS 575](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20575) |
+| Machine Learning | [COMS 573](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20573) |
+| Intro to Machine Learning | [COMS 574](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main/COMS%20574) |
+
+🔗 **[View All Coursework](https://github.com/farabi1038/Courses-in-Iowa-State-University/tree/main)**
 
 ---
 
-### 🚶 **Sidewalk Detection for Urban Safety**  
-Enhancing **sidewalk detection with ensemble learning** to **improve accessibility and urban planning**.  
-🔗 [Publication Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:WF5omc3nYNoC)  
+## 📝 Selected Publications
+
+### 🏆 Recent Conferences (2025)
+- **ECAI 2025**: Self-Supervised Few-Shot Learning for Quantum Spin Systems
+- **EMNLP 2025**: Efficient Unstructured Pruning of Mamba State-Space Models
+- **EMNLP 2025**: Cache-Efficient Posterior Sampling for RL with LLM-Derived Priors
+- **ITSC 2025**: ClearVision - All-Weather Classification in Traffic Camera Imagery
+- **ITSC 2025**: Expert-Aligned Evaluation of Crash Narrative Classification Models
+- **IEEE CVPR (2024)**: DeepLocalization - Change Point Detection for Temporal Action Localization
+- **IEEE ITSC (2023)**: Robust Sidewalk Detection with Ensemble Learning
+
+### 📖 Journal Publications
+- **Measurement: Digitalization (2025)**: Quantum-driven Zero Trust Architecture
+- **Biotechnology and Bioengineering (2024)**: RL-Guided Control for CAR T-Cell Therapy
+
+
+### 🔬 Preprints & Under Review
+- **ICLR 2026**: Fundamental Structure in Reward Functions for Sparse-Reward Learning
+- **ICLR 2026**: Differentiable Entropy Regularization for Geometry and Neural Networks
+- **IEEE ITS Transaction**: HybridMamba for Fine-Grained Temporal Localization
+
+📚 **[Full Publication List](https://scholar.google.com/citations?user=L0ErrZYAAAAJ&sortby=pubdate)**
 
 ---
 
- 
+## 🧑‍⚖️ Academic Service
 
-## **💼 Work Experience**
+### Peer Reviewer for Top-Tier Conferences
+- 🎥 **CVPR** (2024, 2025) - IEEE/CVF Computer Vision and Pattern Recognition
+- 👁️ **ICCV** (2025) - IEEE/CVF International Conference on Computer Vision
+- 📷 **WACV** (2026) - Winter Conference on Applications of Computer Vision
+- 🧠 **ICLR** (2026) - International Conference on Learning Representations
+- 🖼️ **ACM MM** (2025) - ACM International Conference on Multimedia
+- 💬 **EACL** (2026) - European Chapter of the Association for Computational Linguistics
+- 🛣️ **ITSC** (2023, 2024, 2025) - IEEE Intelligent Transportation Systems Conference
 
-### Lecturer 
-📍 *Dallas College.* | 🗓 *August 2025 – Present*
-- Taught classes in accordance with course descriptions and syllabi, maintained a regular
-schedule of teaching and office hours, and provided timely feedback to students.
-- Developed and enhanced curriculum and instructional materials, employing diverse
-and innovative teaching methods to accommodate various student learning styles.
-- Student Assessment: Designed and implemented a variety of assessment methods to evaluate student learning
-and progress toward course objectives.
-- Institutional Service: Actively supported the college’s mission and goals by serving on departmental and
-college-wide committees and participating in curriculum review
-
-### **Applied Scientist Intern**
-📍 *Amazon, Inc.* | 🗓 *June 2025 – Aug 2025*
-- Developed and enhanced **knowledge graphs to improve semantic search and recommendation systems**.
-- Researched and implemented **KGE for information extraction and graph-based feature engineering**.
-- Collaborated with senior scientists to **integrate new data sources and scale knowledge graph construction**.
-
-### **Graduate Research Assistant**  
-📍 *Iowa State University* | 🗓 *Aug 2020 – May 2025*  
-- Conducting **AI-driven research in transportation, safety, and video-based crash detection**.  
-- Developing **crash analysis models, Video-LLMs for crash detection, and AI-enhanced urban planning tools**.  
-- Assisting in **teaching machine learning and AI coursework**, and mentoring students in research projects.  
-
-### **Data Scientist (Co-Ops)**  
-📍 *SoilSerdem, Ames, IA* | 🗓 *Jan 2024 – Dec 2024*  
-- Developed a **Soil Mapping Engine** to provide **personalized soil maps for growers/farmers**.  
-- Optimized **geospatial data processing** for improved decision-making.  
-- Designed **QGIS scripts for AWS integration**, reducing hosting costs.  
-
-### **Data Engineer Intern**  
-📍 *Etalyc Inc, Ames, IA* | 🗓 *May 2021 – Jul 2021*  
-- Built **pedestrian safety models** with machine learning to enhance urban planning.  
-- Created **advanced analytics protocols** to improve predictive capabilities.  
-- Delivered **data-driven reports** highlighting key trends for better decision-making.  
-
-### **Graduate Teaching Assistant**  
-📍 *The University of Vermont, Burlington, VT* | 🗓 *Aug 2019 – May 2020*  
-- Taught **machine learning and deep learning concepts** to over 100 students.  
-- Developed **interactive teaching materials** for improved engagement.  
+### Community Involvement
+- 🏛️ Graduate Student Representative - Iowa State University CS Committee (2022-2023)
+- 🎓 Member - University of Vermont Graduate Senate Education Committee (2019-2020)
+- ⚖️ Judge - 2025 State Science & Technology Fair of Iowa (SSTFI)
 
 ---
 
-## **📚 Education**
-🎓 **Ph.D., Computer Science** (*Graduated October 2025*)  
-📍 Iowa State University  
+## 🛠️ Technical Skills
 
-🎓 **M.S., Artificial Intelligence** (*Graduated January 2024*)  
-📍 Iowa State University  
+### 💻 Programming & Development
+```
+Languages:     Python • Java • SQL • C++ • R • Go
+Web:           FastAPI • Flask • Streamlit • React
+Databases:     MySQL • PostgreSQL • MongoDB • SQLite • Elasticsearch • Athena
+DevOps:        AWS • Git • Docker • Kubernetes • Jenkins • Terraform
+```
 
-🎓 **B.Sc., Computer Science & Engineering** (*Graduated August 2018*)  
-📍 BRAC University  
+### 🧠 Machine Learning & AI
+```
+Frameworks:    PyTorch • Scikit-learn • Keras • ONNX Runtime
+LLM Tools:     Azure Databricks • LangChain • Ollama • TorchServe
+Vector DBs:    Chroma • Faiss • Pinecone
+Computer Vision: OpenCV • YOLO • Detectron2
+```
 
+### ⚙️ Data Engineering & Big Data
+```
+Big Data:      Spark • PySpark • Hadoop
+Pipelines:     ETL • AWS Data Pipeline • Apache Kafka
+Monitoring:    Splunk • Datadog
+```
 
----
-
-
-
-
-## **📝 Publications**
-Here are some of my **recent research papers**:
-
-#### **🚗 AI for Transportation & Safety**
-
-1. Shihab, Ibne Farabi, Sanjeda Akter, and Anuj Sharma. "Efficient unstructured pruning of mamba state-space models for resource-constrained environments." arXiv preprint arXiv:2505.08299 (2025).
-2. **"Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments"**  
-   *I. F. Shihab, S. R. Bhagat, A. Sharma* – 2024 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:eQOLeE2rZwMC)  
-
-#### **🧬 Machine Learning & AI in Bioengineering**
-2. **"Effects of sequence features on machine-learned enzyme classification fidelity"**  
-   *S. Ferdous, I. F. Shihab, R. Chowdhury, N. Reuel* – *Biotechnology and Bioengineering*, 2024 [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate&citation_for_view=L0ErrZYAAAAJ:W7OEmFMy1HYC)  
-
-For a complete list of my publications, visit my **[Google Scholar Profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L0ErrZYAAAAJ&sortby=pubdate)**.
-
----
-
-## 🧑‍⚖️ Academic Service & Peer Review
-
-Here’s your fully updated version in **Markdown format**, now including **WACV 2026**:
-
-### 🧑‍⚖️ Contributing to the Academic Community as a **Peer Reviewer** for Top-Tier Conferences
-
-- 🛣 **IEEE Intelligent Transportation Systems Conference (ITSC)** – Reviewer *(2023, 2024, 2025)*  
-- 👁️ **IEEE/CVF International Conference on Computer Vision (ICCV)** – Reviewer *(2025)*  
-- 🎥 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)** – Reviewer *(2024)*  
-- 🖼 **ACM International Conference on Multimedia (ACM MM)** – Reviewer *(2025)*  
-- 🔮 **International Conference on Learning Representations (ICLR)** – Reviewer *(2026)*  
-- 💬 **European Chapter of the Association for Computational Linguistics (EACL)** – Reviewer *(2026)*  
-- 📷 **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)** – Reviewer *(2026)*
- 
-
+### 🤖 Specialized Tools
+```
+Simulation:    SUMO • CARLA • Isaac Gym • OpenAI Gym
+RL:            Ray • RLlib • Stable Baselines3
+Quantum:       torchquantum • Qiskit • PennyLane • StrawberryFields
+Visualization: Tableau • Matplotlib • Seaborn • Plotly
+GIS:           QGIS • ArcGIS
+```
 
 ---
 
-## **🛠 Technical Skills**
+## 🎓 Education
 
-💻 **Programming & Development**  
-   
-   *Languages:* Python, Java, SQL, C++, R, Go;  
-   
-   *Web:* FastAPI, Flask, Streamlit, React (Amateur);  
-   
-   *Databases:* MySQL, PostgreSQL, MongoDB, SQLite, Elasticsearch, Amazon Athena;  
-   
-   *DevOps:* AWS, Git, GitHub, Jenkins, Docker, Kubernetes, Terraform  
-
-🧠 **Machine Learning & GenAI**  
-
-   *Frameworks:* PyTorch, Scikit-learn, Keras, ONNX Runtime;  
-   
-   *LLMOps:* Azure Databricks, LangChain, Ollama, TorchServe;  
-   
-   *Vector DBs:* Chroma, Faiss, Pinecone  
-
-⚙ **Data Engineering**  
-
-   *Big Data:* Spark, PySpark, Hadoop;  
-   
-   *Pipelines:* ETL, AWS Data Pipeline, Apache Kafka;  
-   
-   *Monitoring:* Splunk, Datadog  
-
-👀 **Computer Vision & Simulation**  
-
-   *Tools:* OpenCV, SUMO, Isaac Gym, CARLA, OpenAI Gym  
-
-🤖 **Reinforcement Learning**  
-
-   *Frameworks:* Ray, RLlib, Stable Baselines3  
-
-📊 **Data Visualization & GIS**  
-
-   *Tools:* Tableau, Matplotlib, Seaborn, Plotly, QGIS, ArcGIS;  
-   
-   *Capabilities:* Digital mapping, remote sensing, terrain modeling, spatial analytics  
-
-📈 **Statistical Analysis**  
-
-   *Tools:* R Studio, MATLAB  
-
-🔬 **QNN and QML**  
-
-   *Frameworks:* torchquantum, Qiskit, StrawberryFields, PennyLane  
-
+| Degree | Institution | Graduation |
+|--------|-------------|------------|
+| **Ph.D., Computer Science** | Iowa State University | October 2025 |
+| **M.S., Artificial Intelligence** | Iowa State University | January 2024 |
+| **B.Sc., Computer Science & Engineering** | BRAC University | August 2018 |
 
 ---
 
-## **📊 GitHub Stats**
-![Farabi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farabi1038&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farabi1038&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
-## **📫 Let's Connect!**
-📩 **Email:** [ibnfarabishihab@gmail.com](mailto:ibnfarabishihab@gmail.com)  
-📩 **Academic Email:** [ishihab@iastate.edu](mailto:ishihab@iastate.edu)  
-📞 **Mobile:** +1-347-571-4757  
-🔗 **LinkedIn:** [Ibne Farabi Shihab](https://www.linkedin.com/in/ibne-farabi-shihab-271665bb/)  
-🔗 **GitHub:** [farabi1038](https://github.com/farabi1038)  
+## 📫 Let's Connect!
+
+I'm always interested in collaborating on exciting AI and ML projects!
+
+- 📧 **Personal**: [ibnfarabishihab@gmail.com](mailto:ibnfarabishihab@gmail.com)
+- 🎓 **Academic**: [ishihab@iastate.edu](mailto:ishihab@iastate.edu)
+- 📞 **Phone**: +1-347-571-4757
+- 💼 **LinkedIn**: [Ibne Farabi Shihab](https://www.linkedin.com/in/ibne-farabi-shihab-271665bb/)
+- 🐙 **GitHub**: [@farabi1038](https://github.com/farabi1038)
+- 📚 **Google Scholar**: [Publications](https://scholar.google.com/citations?user=L0ErrZYAAAAJ)
 
 ---
 
-### **🔥 Thank you for visiting my profile! Happy coding! 🚀**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farabi1038&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <strong>⭐ Thank you for visiting my profile! Happy coding! 🚀</strong>
+</p>
