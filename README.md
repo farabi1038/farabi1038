@@ -24,6 +24,35 @@ I'm passionate about applying AI and machine learning to solve real-world proble
 
 ---
 
+## 🎯 About Me
+
+I'm an AI researcher and data scientist with expertise spanning multiple high-impact domains. My work bridges academic research and practical industry applications, with a focus on deploying AI solutions that create measurable real-world impact.
+
+📄 **[Download My Resume](./Ibne_Farabi_Shihab_Resume.pdf)** | **[Academic Resume](./Ibne_Farabi_Shihab_Resume_Teaching.pdf)**
+
+---
+
+## 🌟 Domain Expertise
+
+### 🚗 Transportation & Autonomous Systems
+- Computer Vision and LLMs for crash detection and safety analysis
+- Reinforcement Learning for autonomous vehicle control
+- Real-time video analytics for traffic management
+- ADAS (Advanced Driver Assistance Systems) development
+
+### 🌾 Agriculture & Environmental Science
+- **Precision Agriculture**: Soil mapping and predictive modeling for farm optimization
+- **Geospatial Analytics**: QGIS, ArcGIS, remote sensing, and terrain modeling
+- **Digital Agriculture**: ML-driven resource allocation and crop management
+- **Environmental Data Analysis**: Climate modeling and sustainability metrics
+
+### 🔬 Emerging Technologies
+- Quantum Neural Networks for next-generation security
+- Synthetic data generation for safety-critical simulations
+- Biomedical applications of reinforcement learning
+
+---
+
 ## 💼 Professional Experience
 
 ### 🏢 Current Position
