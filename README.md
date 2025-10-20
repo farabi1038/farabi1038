@@ -539,8 +539,6 @@ Security applications
 <td width="33%" valign="top" align="center">
 
 **Other Venues**
-
-- ICSE 2026 (Reward Hacking)
 - Journal of Safety Research
 
 </td>
