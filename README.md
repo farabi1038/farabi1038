@@ -12,6 +12,7 @@
 
 ---
 
+
 ## 🎯 About Me
 
 I'm an AI researcher and data scientist with expertise spanning multiple high-impact domains. My work bridges academic research and practical industry applications, with a focus on deploying AI solutions that create measurable real-world impact.
@@ -22,22 +23,34 @@ I'm an AI researcher and data scientist with expertise spanning multiple high-im
 
 ## 🌟 Domain Expertise
 
+### 🤖 Large Language Models & Generative AI
+- **Video-LLMs for Safety**: Crash detection and automated narrative generation from video data
+- **Multimodal AI**: Integrating computer vision with LLMs for real-time analysis
+- **LLM Optimization**: Efficient pruning of Mamba state-space models for resource-constrained environments
+- **RL with LLM Priors**: Cache-efficient posterior sampling across discrete and continuous domains
+- **Prompt Engineering**: Systematic approaches for safety-critical applications
+- **Publications**: Multiple accepted papers at EMNLP 2025, ITSC 2025, and ongoing research
+
 ### 🚗 Transportation & Autonomous Systems
-- Computer Vision and LLMs for crash detection and safety analysis
-- Reinforcement Learning for autonomous vehicle control
-- Real-time video analytics for traffic management
-- ADAS (Advanced Driver Assistance Systems) development
+- **Computer Vision**: Real-time crash detection and temporal action localization in traffic surveillance
+- **Reinforcement Learning**: Autonomous vehicle control and decision-making algorithms
+- **Safety Systems**: ADAS enhancement for extreme weather conditions (Iowa DOT projects)
+- **Synthetic Data Generation**: Traffic simulation for safety-critical model training (SUMO, CARLA)
+- **Impact**: Reduced accident risks and improved emergency response times
 
-### 🌾 Agriculture & Environmental Science
-- **Precision Agriculture**: Soil mapping and predictive modeling for farm optimization
-- **Geospatial Analytics**: QGIS, ArcGIS, remote sensing, and terrain modeling
-- **Digital Agriculture**: ML-driven resource allocation and crop management
-- **Environmental Data Analysis**: Climate modeling and sustainability metrics
+### 🌾 Digital Agriculture & Environmental Analytics
+- **Precision Agriculture**: Soil mapping engine serving 10+ farms (35% accuracy improvement)
+- **Geospatial ML**: QGIS/ArcGIS integration with AWS for scalable data processing
+- **Environmental Modeling**: Climate data analysis and sustainability metrics
+- **Production Systems**: Cost-optimized cloud architecture (20% speed increase, reduced hosting costs)
+- **Remote Sensing**: Terrain modeling and spatial analytics for agricultural decision-making
 
-### 🔬 Emerging Technologies
-- Quantum Neural Networks for next-generation security
-- Synthetic data generation for safety-critical simulations
-- Biomedical applications of reinforcement learning
+### 🔬 Advanced AI & Quantum Computing
+- **Quantum Neural Networks**: Novel architectures for network security (10% accuracy boost in anomaly detection)
+- **Self-Supervised Learning**: Few-shot learning for quantum spin systems (ECAI 2025)
+- **Reward Engineering**: Detecting and mitigating reward hacking in RL systems
+- **Biomedical AI**: RL-guided optimization for CAR T-cell therapy parameters
+- **Theoretical Foundations**: Differentiable entropy regularization, counterfactual reasoning in LMs
 
 ---
 
