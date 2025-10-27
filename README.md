@@ -12,7 +12,8 @@
 > *"Bridging cutting-edge AI research with real-world impact across transportation, agriculture, and quantum computing"*
 
 <br>
-[🌐 **Personal Website**](https://farabi1038.github.io/)
+
+[![Website](https://img.shields.io/badge/Website-farabi1038.github.io-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farabi1038.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibne-farabi-shihab-271665bb/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L0ErrZYAAAAJ)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farabi1038)
@@ -23,6 +24,7 @@
 **📄 [Download Industry Resume](./Ibne_Farabi_Shihab_Resume.pdf) • [Download Academic Resume](./Ibne_Farabi_Shihab_Resume_Teaching.pdf)**
 
 </div>
+
 
 ---
 
