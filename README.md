@@ -569,7 +569,7 @@ Security applications
 
 **🎥 Computer Vision**
 
-CVPR '24, '25  
+CVPR '24, '25, '26    
 ICCV '25  
 WACV '26
 
