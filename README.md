@@ -594,6 +594,7 @@ ACM MM '25
 **🛣️ Transportation**
 
 ITSC '23, '24, '25
+IEEE Intelligent Vehicles Symposium 2026
 
 </td>
 </tr>
