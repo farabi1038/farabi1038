@@ -2,10 +2,14 @@
 
 <div align="center">
 
-### 🎓 Ph.D. in Computer Science | 🔬 AI Researcher | 📊 Data Scientist
+### 🎓 Ph.D. in Computer Science | 🔬 Applied AI Researcher | 📊 Applied Scientist
 
-**Recently Graduated from Iowa State University** • October 2025  
-📍 **Current Role:** Lecturer at Dallas College, TX
+**Ph.D., Computer Science — Iowa State University** • Oct 2025  
+📍 **Current Role:** Lecturer, Dallas College, TX  
+📍 **Incoming Role:** Applied Scientist II, Amazon (Sunnyvale, CA) • Jan 2026
+
+</div>
+
 
 <br>
 
