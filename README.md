@@ -6,7 +6,6 @@
 
 **Ph.D., Computer Science — Iowa State University** • Oct 2025  
 📍 **Current Role:** Lecturer, Dallas College, TX  
-📍 **Incoming Role:** Applied Scientist II, Amazon (Sunnyvale, CA) • Jan 2026
 
 </div>
 
