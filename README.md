@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🎓 Ph.D. in Computer Science | 🔬 Applied AI Researcher | 📊 Applied Scientist in Amazon
+### 📊 Applied Scientist in Amazon | 🎓 Ph.D. in Computer Science | 🔬 Applied AI Researcher 
 
 **Ph.D., Computer Science — Iowa State University** • Oct 2025  
 📍 **Current Role:** Lecturer, Dallas College, TX  
