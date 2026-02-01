@@ -90,6 +90,7 @@ I'm an AI researcher and data scientist with expertise spanning multiple high-im
 - Cache-efficient sampling
 - Resource-constrained AI
 - 2 Papers at EMNLP '25
+- 4 Papers at ACL '26 *(under review)*
 
 </td>
 <td width="33%" valign="top">
@@ -99,7 +100,7 @@ I'm an AI researcher and data scientist with expertise spanning multiple high-im
 - Risk certification methods
 - Reward function analysis
 - Faithful reasoning
-- 3 Papers at ICLR '26 *(under review)*
+- 6 Papers at ACL '26 and ICLR '26 *(under review)*
 
 </td>
 </tr>
