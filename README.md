@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🎓 Ph.D. in Computer Science | 🔬 Applied AI Researcher | 📊 Applied Scientist
+### 🎓 Ph.D. in Computer Science | 🔬 Applied AI Researcher | 📊 Applied Scientist in Amazon
 
 **Ph.D., Computer Science — Iowa State University** • Oct 2025  
 📍 **Current Role:** Lecturer, Dallas College, TX  
@@ -43,7 +43,7 @@ I'm an AI researcher and data scientist with expertise spanning multiple high-im
 - 📚 **10+ Publications** at top-tier venues
 - 🏆 **6 Papers Accepted** to ECAI, EMNLP, ITSC 2025
 - 🎯 **5+ Under Review** at top conferences
-- 👥 **Reviewer** for CVPR, ICCV, ICLR, ACM MM
+- 👥 **Reviewer** for CVPR, ICCV, ICLR, ACM MM, ICML
 
 </td>
 <td width="50%">
@@ -393,7 +393,7 @@ Complete PyTorch implementation of Google's PaliGemma multimodal model
 
 **Lecturer**  
 *Dallas College*  
-Aug 2025 - Present
+Aug 2025 - Jan 2026
 
 ---
 
@@ -417,6 +417,13 @@ Aug 2019 - May 2020
 <td width="33%" valign="top" align="center">
 
 ### 🏢 Industry
+
+
+**Applied Scientist**  
+*Amazon Inc.*  
+Jan 2026 - Present
+
+---
 
 **Applied Scientist Intern**  
 *Amazon Inc.*  
@@ -523,13 +530,37 @@ Security applications
 <tr>
 <td width="33%" valign="top" align="center">
 
-**ICLR 2026**  
-*(4 Submissions)*
+**CVPR 2026**  
+*(2 Submissions)*
+
+- Adaptive Temporal Refinement: Continuous Depth Allocation and Distance Regression for Efficient Action Localization
+- LLM-Guided Probabilistic Fusion for Label-Efficient Document Layout Analysis
+
+</td>
+<td width="33%" valign="top" align="center">
+
+
+**ACL 2026**  
+*(5 Submissions)*
 
 - Reward Function Structure
-- Differentiable Entropy Regularization
 - Counterfactual Sensitivity
 - Risk Certification for LLMs
+- Adaptive Constraint Propagation: Scaling Structured Inference for Large Language Models via Meta-Reinforcement Learning
+- Beyond Variance: Knowledge-Aware LLM Compression via Fisher-Aligned Subspace Diagnostics
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**ICML 2026**  
+*(6 Submissions)*
+
+- CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures
+- Differentiable Entropy Regularization
+- What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion
+- Selective Risk Certification for LLM Outputs via Information-Lift Statistics: PAC-Bayes, Robustness, and Skeleton Design
+- CGRiC: Compositional Risk Certification for Structured LLM Outputs
+- Certificate-Guided Pruning for Stochastic Lipschitz Optimization
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -583,6 +614,7 @@ WACV '26
 
 ICLR '26  
 ECAI '25
+ICML '26
 
 </td>
 <td width="25%" align="center">
