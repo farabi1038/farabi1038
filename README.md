@@ -1008,7 +1008,7 @@ Software Engineering
 <td align="center" width="25%">
 
 **📍 Location**  
-Dallas, TX, USA
+Sunnyvale, CA, USA
 
 </td>
 </tr>
