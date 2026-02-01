@@ -110,7 +110,7 @@ I'm an AI researcher and data scientist with expertise spanning multiple high-im
 - ✅ **EMNLP 2025** - Efficient Unstructured Pruning of Mamba State-Space Models
 - ✅ **EMNLP 2025** - Cache-Efficient Posterior Sampling for RL with LLM-Derived Priors  
 - 📝 **IEEE ITS** - Leveraging Video-LLMs for Crash Detection and Narrative Generation
-- 📝 **ICLR 2026** - Counterfactual Sensitivity for Faithful Reasoning *(submitted)*
+- 📝 **ACL 2026** - Counterfactual Sensitivity for Faithful Reasoning *(submitted)*
 - 📝 **IEEE ITS** - Image Segmentation with LLMs: Survey for Transportation Systems *(submitted)*
 
 <br>
