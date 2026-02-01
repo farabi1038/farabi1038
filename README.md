@@ -49,7 +49,8 @@ I'm an AI researcher and data scientist with expertise spanning multiple high-im
 <td width="50%">
 
 **💼 Industry Impact**
-- 🏢 **Amazon Applied Scientist** (Summer 2025)
+- 🏢 **Amazon Applied Scientist** (January 2026 - Present)
+- 🏢 **Amazon Applied Scientist Intern** (Summer 25)
 - 🌾 **35% Accuracy Boost** in soil mapping
 - 🚗 **Iowa DOT Partnership** for safety systems
 - 💰 **20% Cost Reduction** via cloud optimization
