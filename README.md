@@ -2,13 +2,12 @@
 
 <div align="center">
 
-### 📊Applied Scientist in Amazon  | 🎓 Ph.D. in Computer Science | 🔬 Applied AI Researcher 
+### 📊 Applied Scientist at Amazon | 🎓 Ph.D. in Computer Science | 🔬 Applied AI Researcher
 
 **Ph.D., Computer Science — Iowa State University** • Oct 2025  
-📍 **Current Role:** Applied Scientist in Amazon, California  
+📍 **Current Role:** Applied Scientist at Amazon, California  
 
 </div>
-
 
 <br>
 
@@ -28,29 +27,29 @@
 
 </div>
 
-
 ---
 
 ## 🎯 About Me
 
-I'm an AI researcher and data scientist with expertise spanning multiple high-impact domains. My work bridges academic research and practical industry applications, with a focus on deploying AI solutions that create **measurable real-world impact**.
+I'm an AI researcher and applied scientist with expertise spanning multiple high-impact domains. My work bridges academic research and practical industry applications, with a focus on deploying AI solutions that create **measurable real-world impact**.
 
 <table>
 <tr>
 <td width="50%">
 
 **🔬 Research Impact**
-- 📚 **10+ Publications** at top-tier venues
-- 🏆 **6 Papers Accepted** to ECAI, EMNLP, ITSC 2025
-- 🎯 **5+ Under Review** at top conferences
-- 👥 **Reviewer** for CVPR, ICCV, ICLR, ACM MM, ICML
+- 📚 **16+ Publications** at top-tier venues
+- 🏆 **13 Papers Accepted in 2026** to ICML, ACL, CVPR, ITSC, and IEEE T-ITS
+- 🎯 **10+ Under Review / In Submission** at NeurIPS, ECCV, ACL ARR, and IEEE T-ITS
+- 🧑‍⚖️ **Area Chair** for ACL 2026 Industry Track
+- 👥 **Reviewer** for NeurIPS, ICML, CVPR, ICCV, ICLR, ACM MM, WACV
 
 </td>
 <td width="50%">
 
 **💼 Industry Impact**
-- 🏢 **Amazon Applied Scientist** (January 2026 - Present)
-- 🏢 **Amazon Applied Scientist Intern** (Summer 25)
+- 🏢 **Amazon Applied Scientist II** (January 2026 - Present)
+- 🏢 **Amazon Applied Scientist Intern** (Summer 2025)
 - 🌾 **35% Accuracy Boost** in soil mapping
 - 🚗 **Iowa DOT Partnership** for safety systems
 - 💰 **20% Cost Reduction** via cloud optimization
@@ -90,28 +89,28 @@ I'm an AI researcher and data scientist with expertise spanning multiple high-im
 - Cache-efficient sampling
 - Resource-constrained AI
 - 2 Papers at EMNLP '25
-- 4 Papers at ACL '26 *(under review)*
+- Compression work accepted at ICML '26 & ACL '26
 
 </td>
 <td width="33%" valign="top">
 
 **🧠 LLM Theory & Reasoning**
 - Counterfactual sensitivity
-- Risk certification methods
+- Risk & conformal certification
 - Reward function analysis
 - Faithful reasoning
-- 6 Papers at ACL '26 and ICLR '26 *(under review)*
+- 4 Papers at ICML '26, 4 at ACL '26 *(accepted)*
 
 </td>
 </tr>
 </table>
 
 **Key Publications:**
+- ✅ **ICML 2026** - CalPro: Prior-Aware Evidential Conformal Prediction for Protein Structures
+- ✅ **ACL 2026** - Causal Consistency Regularization for Verifiably Sensitive Reasoning *(Main)*
+- ✅ **ACL 2026** - Beyond Variance: Knowledge-Aware LLM Compression via Fisher-Aligned Subspace Diagnostics *(Main)*
 - ✅ **EMNLP 2025** - Efficient Unstructured Pruning of Mamba State-Space Models
-- ✅ **EMNLP 2025** - Cache-Efficient Posterior Sampling for RL with LLM-Derived Priors  
-- 📝 **IEEE ITS** - Leveraging Video-LLMs for Crash Detection and Narrative Generation
-- 📝 **ACL 2026** - Counterfactual Sensitivity for Faithful Reasoning *(submitted)*
-- 📝 **IEEE ITS** - Image Segmentation with LLMs: Survey for Transportation Systems *(submitted)*
+- ✅ **EMNLP 2025** - Cache-Efficient Posterior Sampling for RL with LLM-Derived Priors
 
 <br>
 
@@ -134,6 +133,7 @@ I'm an AI researcher and data scientist with expertise spanning multiple high-im
 - All-weather image classification (CycleGAN + SigLIP-2)
 - Change-point detection for action localization (CVPR '24)
 - Ensemble learning for sidewalk detection (ITSC '23)
+- LLM-Guided document layout analysis (CVPR '26)
 
 **🎯 Impact Metrics:**
 - 🏆 Featured in [Iowa State News](https://www.news.iastate.edu/news/2024/03/05/snowplow)
@@ -145,7 +145,7 @@ I'm an AI researcher and data scientist with expertise spanning multiple high-im
 
 **🤖 Reinforcement Learning & Control**
 - Autonomous vehicle decision-making algorithms
-- RL for traffic signal synchronization
+- LLM-guided meta-prior RL for traffic signal synchronization (ITSC '26)
 - Reward hacking detection & mitigation
 - Multi-agent coordination systems
 
@@ -270,13 +270,14 @@ Viz:         Tableau • Plotly • Kepler.gl
 **🔍 Theoretical Foundations**
 - Differentiable entropy regularization
 - Self-supervised few-shot learning
-- Reward function structure analysis
+- Conformal & risk certification
 - Information-lift statistics
+- Subspace-manifold methods (Grassmannian/Stiefel)
 
-**📝 Under Review:**
-- ICLR '26 (3 submissions)
+**📝 In Submission:**
+- NeurIPS '26 (5 submissions)
+- ACL ARR May '26 (6 submissions)
 - Novel theoretical frameworks
-- Geometry + neural networks
 
 </td>
 </tr>
@@ -407,7 +408,7 @@ Jan 2022 - May 2025
 
 **Graduate Teaching Assistant**  
 *Iowa State University*  
-Aug 2020 - Dec 2021
+Jan 2024 - May 2025 (COM S 227, 576)
 
 ---
 
@@ -420,8 +421,7 @@ Aug 2019 - May 2020
 
 ### 🏢 Industry
 
-
-**Applied Scientist**  
+**Applied Scientist II**  
 *Amazon Inc.*  
 Jan 2026 - Present
 
@@ -442,12 +442,6 @@ Jan 2024 - Dec 2024
 **Data Engineer Intern**  
 *Etalyc Inc.*  
 May 2021 - Jul 2021
-
----
-
-**AI Trainee**  
-*Training Program*  
-Oct 2018 - Feb 2019
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -486,7 +480,47 @@ Security applications
 
 <div align="center">
 
-### 🏆 Recent Acceptances (2025)
+### 🏆 Recent Acceptances (2026)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**✅ ICML 2026** *(4 Papers)*
+- *CalPro: Prior-Aware Evidential Conformal Prediction for Protein Structures*
+- *What Reward Structure Enables Efficient Sparse-Reward RL?*
+- *CGRiC: Compositional Risk Certification for Structured LLM Outputs*
+- *Certificate-Guided Pruning for Stochastic Lipschitz Optimization*
+
+**✅ ACL 2026** *(4 Papers — 3 Main, 1 Findings)*
+- *Adaptive Constraint Propagation* (Main)
+- *Beyond Variance: Knowledge-Aware LLM Compression* (Main)
+- *Causal Consistency Regularization* (Main)
+- *Detecting Proxy Gaming in RL and LLM Alignment* (Findings)
+
+</td>
+<td width="50%" valign="top">
+
+**✅ IEEE/CVF CVPR 2026**
+- *LLM-Guided Probabilistic Fusion for Label-Efficient Document Layout Analysis*
+
+**✅ IEEE ITSC 2026** *(2 Papers)*
+- *Beyond Accuracy: Empirical Spectral Diagnostics for Crash Classification Models*
+- *LLM-Guided Meta-Prior RL for Adaptive Traffic Signal Synchronization*
+
+**✅ Journal Publications (2026)**
+- *Image Segmentation with LLMs: Survey* - IEEE T-ITS (IF 8.4)
+- *Improving Crash Data Quality via NLP* - Journal of Safety Research (IF 4.8)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🏆 Earlier Acceptances (2023–2025)
 
 </div>
 
@@ -512,7 +546,7 @@ Security applications
 - *Quantum-driven Zero Trust Architecture* - Measurement: Digitalization (2025)
 - *RL-Guided CAR T-Cell Control* - Biotechnology and Bioengineering (2024)
 
-**✅ IEEE CVPR 2024**
+**✅ IEEE/CVF CVPR 2024**
 - *DeepLocalization: Change Point Detection for Temporal Action Localization*
 
 **✅ IEEE ITSC 2023**
@@ -524,7 +558,7 @@ Security applications
 
 <div align="center">
 
-### 📝 Under Review (2026)
+### 📝 In Submission (2026)
 
 </div>
 
@@ -532,52 +566,31 @@ Security applications
 <tr>
 <td width="33%" valign="top" align="center">
 
-**CVPR 2026**  
-*(2 Submissions)*
-
-- Adaptive Temporal Refinement: Continuous Depth Allocation and Distance Regression for Efficient Action Localization
-- LLM-Guided Probabilistic Fusion for Label-Efficient Document Layout Analysis
-
-</td>
-<td width="33%" valign="top" align="center">
-
-
-**ACL 2026**  
-*(5 Submissions)*
-
-- Reward Function Structure
-- Counterfactual Sensitivity
-- Risk Certification for LLMs
-- Adaptive Constraint Propagation: Scaling Structured Inference for Large Language Models via Meta-Reinforcement Learning
-- Beyond Variance: Knowledge-Aware LLM Compression via Fisher-Aligned Subspace Diagnostics
+**NeurIPS 2026**  *(5 Submissions)*
+- Learning to Forget Attention (CRAM)
+- On the Sparsifiability of Correlation Clustering
+- Grassmannian Mixture-of-Experts
+- Auditing Near-Optimal Policies
+- Topology-Aware State Abstraction
 
 </td>
 <td width="33%" valign="top" align="center">
 
-**ICML 2026**  
-*(6 Submissions)*
-
-- CalPro: Prior-Aware Evidential Conformal Prediction with Structure-Aware Sensitivity Bounds for Protein Structures
-- Differentiable Entropy Regularization
-- What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion
-- Selective Risk Certification for LLM Outputs via Information-Lift Statistics: PAC-Bayes, Robustness, and Skeleton Design
-- CGRiC: Compositional Risk Certification for Structured LLM Outputs
-- Certificate-Guided Pruning for Stochastic Lipschitz Optimization
+**ACL ARR May 2026**  *(6 Submissions)*
+- Calibrated Adaptation: Bayesian Stiefel Manifold Priors
+- Anytime-Valid Answer Sufficiency Certificates
+- EST-PRM: Stress-Testing Process Reward Models
+- Grounded Decoding for Faithful RAG
+- Dynamic Proxy-Mixing
+- Canonicalized Stable-List Replay
 
 </td>
 <td width="33%" valign="top" align="center">
 
-**IEEE ITS Transaction**  
-*(2 Submissions)*
-
-- HybridMamba for Temporal Localization
-- Image Segmentation with LLMs Survey
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**Other Venues**
-- Journal of Safety Research
+**ECCV 2026 & IEEE T-ITS**
+- HybridMamba for Sub-Second Temporal Localization
+- Temporal Zoom Networks
+- Calibrated & Resource-Aware Super-Resolution
 
 </td>
 </tr>
@@ -595,7 +608,7 @@ Security applications
 
 <div align="center">
 
-### 🎯 Peer Review for Premier Conferences
+### 🎯 Area Chair & Peer Review for Premier Venues
 
 </div>
 
@@ -604,48 +617,40 @@ Security applications
 <td width="25%" align="center">
 
 **🎥 Computer Vision**
-
-CVPR '24, '25, '26    
+CVPR '24–'26  
 ICCV '25  
-WACV '26
+WACV '26–'27
 
 </td>
 <td width="25%" align="center">
 
 **🧠 Machine Learning**
-
+NeurIPS '26  
+ICML '26  
 ICLR '26  
 ECAI '25
-ICML '26
 
 </td>
 <td width="25%" align="center">
 
-**🖼️ Multimedia**
-
-ACM MM '25
+**💬 NLP**
+ACL Industry Track '26 *(Area Chair)*  
+ACL ARR / EMNLP '26
 
 </td>
 <td width="25%" align="center">
 
-**🛣️ Transportation**
-
-ITSC '23, '24, '25
-IEEE Intelligent Vehicles Symposium 2026
+**🛣️ Transportation / Multimedia**
+ITSC '23–'25  
+ACM MM '25–'26  
+IEEE ICVES '25
 
 </td>
 </tr>
 <tr>
-<td width="25%" align="center">
+<td colspan="4" align="center">
 
-**💬 NLP**
-
-EACL '26
-
-</td>
-<td colspan="3" align="center">
-
-**📊 Total Reviews:** 30+ papers across 8 top-tier conferences
+**📊 Total Reviews:** 30+ papers across 10+ top-tier venues • **🧑‍⚖️ Area Chair:** ACL 2026 Industry Track
 
 </td>
 </tr>
@@ -653,7 +658,7 @@ EACL '26
 
 <div align="center">
 
-### 🌟 Leadership & Community Service
+### 🌟 Leadership & Mentoring
 
 </div>
 
@@ -670,9 +675,9 @@ EACL '26
 </td>
 <td width="50%">
 
-**🔬 Community Outreach**
+**🔬 Mentoring & Outreach**
+- 🎓 Actively mentoring **9 students & researchers** across Iowa State, BRAC, KIIT, IUB, and Amazon
 - ⚖️ Judge, State Science & Technology Fair of Iowa (2025)
-- 🎓 Mentor for undergraduate research projects
 - 📖 Guest lecturer for AI/ML courses
 
 </td>
@@ -860,7 +865,6 @@ Kepler.gl   ⭐⭐⭐
 <td width="33%" align="center" valign="top">
 
 **⚛️ Quantum Computing**
-
 torchquantum  
 Qiskit  
 PennyLane  
@@ -872,7 +876,6 @@ StrawberryFields
 <td width="33%" align="center" valign="top">
 
 **📊 Statistical Analysis**
-
 R Studio  
 MATLAB  
 SciPy  
@@ -884,7 +887,6 @@ StatsModels
 <td width="33%" align="center" valign="top">
 
 **🎓 Research Tools**
-
 LaTeX  
 Jupyter  
 Weights & Biases  
@@ -901,6 +903,7 @@ MLflow
 ### 🏆 Domain Expertise
 
 </div>
+
 ```
 🔍 Crash Analysis          🎯 Prompt Engineering       ⏱️ Time Series Analysis
 🤖 Autonomous Systems      📈 Predictive Modeling       🌐 Knowledge Graphs
@@ -1038,7 +1041,6 @@ Sunnyvale, CA, USA
 
 ### ⭐ Thank you for visiting my profile! Happy coding! 🚀
 
-*"I have to win. If not eventually, I will. 
-There is no alternative."*
+*"I have to win. If not eventually, I will. There is no alternative."*
 
 </div>
